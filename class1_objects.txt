@@ -2,7 +2,7 @@ Object: Dinner Glass
 
 Attributes:
 color: "Pink"
-totalCapacity 1000
+totalCapacity 1000 
 currentCapacity 800
 
 Methods:
