@@ -4,6 +4,7 @@ Attributes:
 color (string)
 totalCapacity (integer)
 currentCapacity (integer)
+isDirty (boolean)
 
 Methods:
 calculatePercentFull (divides currentCapacity by totalCapacity)
